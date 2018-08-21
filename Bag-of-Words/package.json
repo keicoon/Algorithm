@@ -1,0 +1,16 @@
+{
+  "name": "BOW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.116",
+    "nodemon": "^1.18.3",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "@types/jest": "^23.3.1",
+    "lodash": "^4.17.10",
+    "ts-jest": "^23.1.3"
+  }
+}
