@@ -1,0 +1,4 @@
+[
+    ({ "level" : "Junior", "lang" : "Java", "tweets" : "yes", "phd" : "no"}, True),
+    ({ "level" : "Junior", "lang" : "Java", "tweets" : "yes", "phd" : "yes"}, False) 
+]
