@@ -2,7 +2,7 @@
 2. c#
 3.
 ```
-D에 fibo 값을 caching하고 재사용하여 O(n)으로 
+D에 fibo 값을 caching하고 재사용하여 O(n)으로 수행함
 ```
 4.
 ```
