@@ -1,6 +1,6 @@
 1. https://leetcode.com/problems/design-hashmap/submissions/
 2. c#
-3. idead
+3. idea
 ```
 array 초기값을 -1로 설정하고 싶었지만 O(n)의 시간 비용이 든다.
 그래서 보간 값을 두어 초기값과 set된 value값을 비교하도록 계산.
